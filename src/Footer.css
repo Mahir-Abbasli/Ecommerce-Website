@@ -1,0 +1,174 @@
+.Footer_div {
+    display: flex;
+    margin-top: 50px;
+    background-color: var(--blueColor5);
+    height: 400px;
+    color: var(--whiteColor);
+    margin-left: -110px;
+    margin-right: -110px;
+    } 
+    footer {
+        display: flex;
+        position: relative;
+    }
+    .FtSection2 {
+        position: absolute;
+        left: 1030px;
+    }
+    .Logo {
+        width: max-content;
+        position: relative;
+    }
+    .Logo2 {
+        position: absolute;
+        left: 95px;
+        top: 160px;
+    }
+    .Logo2 img{
+        width: 260px;
+        height: 45px;
+    }
+    .Links {
+       margin-left: 420px;
+        padding-top: 50px;
+        display: flex;
+        font-size: 15px;
+    }
+    .Sirket li {
+        line-height: 2.2;
+    }
+    .Sirket li a {
+        color: var(--grayColor3);
+    }
+    .Sirket li a:hover {
+        color: var(--redColor1);
+    }
+    .sirket1 {
+        font-size: 20px;
+        color: var(--whiteColor);
+        font-weight: bold;
+    }
+    .Musteri {
+        margin-left: 100px;
+    }
+    .Musteri li {
+        line-height: 2.2;
+    }
+    .musteri1 {
+        font-size: 19px;
+        font-weight: bold;
+        color: var(--whiteColor);
+    }
+    .Musteri li a {
+        color: var(--grayColor4);
+    }
+    .Musteri li a:hover {
+        color: var(--redColor1);
+    }
+    .contacts {
+        margin-top: 58px;
+    }
+    .contacts ul {
+        margin-top: 20px;
+        display: flex;
+        margin-bottom: 70px;
+    }
+    .contacts ul li a span {
+        margin-left: 8px;
+        font-size: 17px;
+        color: var(--whiteColor4);
+    }
+    .contacts ul li a span:hover {
+        color: var(--redColor1);
+    }
+    .contacts ul li a:hover {
+        color: var(--blackColor7);
+    }
+    .foticon1 {
+        width: 23px;
+        height: 23px;
+        color: var(--whiteColor4);
+    }
+    .foticon1:hover {
+        color: var(--redColor1);
+    }
+    .foticon2  {
+        margin-left: 25px;
+        width: 23px;
+        height: 23px;
+        color: var(--whiteColor4);
+    }
+    .foticon2:hover {
+        color: var(--redColor1);
+    }
+    .contacts h3 {
+        margin-left: 35px;
+        font-size: 21px;
+        font-weight: bolder;
+    }
+    .Contact h4 {
+        margin-left: 30px;
+        font-weight: 600;
+        letter-spacing: 1px;
+        margin-bottom: 17px;
+    }
+    
+    .contacts ul li a span {
+        height: 27px;
+    }
+    .SocialMedia ul li a {
+        margin-right: 22px;
+        height: 27px;
+    }
+    .SocialMedia ul {
+        display: flex;
+    }
+    .Fbicon {
+        font-size:27px;
+        color: var(--whiteColor);
+    }
+    .Instaicon {
+        font-size:27px;
+        color: var(--whiteColor);
+    }
+    .Yticon {
+        font-size:27px;
+        color: var(--whiteColor);
+    }
+    .Wicons {
+        font-size:27px;
+        color: var(--whiteColor);
+    }
+    .Tgicon {
+        font-size:27px;
+        color: var(--whiteColor);
+    }
+    .Lkicon {
+        font-size:27px;
+        color: var(--whiteColor);
+    }
+    .Twicon {
+        font-size:27px;
+        color: var(--whiteColor);
+    }
+    .Tkicon {
+        font-size:27px;
+        color: var(--whiteColor);
+    }
+    .Payment {
+        margin-top: 60px;
+        margin-left: -15px;
+    }
+    .Payment ul li {
+        float: left;
+    }
+    .Payment ul li img {
+        margin-right: 15px;
+       width: 80px;
+        height: 40px;
+    }
+    .Huquq {
+        font-size: 15px;
+        margin-left: 100px; 
+        margin-top: 20px;
+    }

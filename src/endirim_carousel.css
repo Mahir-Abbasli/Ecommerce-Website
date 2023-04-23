@@ -1,0 +1,216 @@
+
+.big_div {
+    margin-left: 0px;
+    width: 246px;
+    height: 537px;
+    border: 2px solid var(--whiteColor2);
+    
+}
+
+.EveryCarousel1  {
+    position: relative;
+    width: 200px;
+    height: 325px;
+}
+.ImgCarousel1 img {
+    margin-top: 20px;
+    width: 210px;
+    height: 220px;
+}
+.Mehsullarin_adlari1 {
+    width: 200px;
+    text-align: center;
+    margin-left: -57px;
+    font-weight: bolder;
+
+}
+.Mehsulbtn1  button {
+    position: absolute;
+    left: 94px;
+    top: 275px;
+    font-size: 15px;
+    background-color: var(--greenColor2);
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 4px;
+    font-weight: 600;
+    color: var(--whiteColor);
+}
+.Mehsulbtn1  button:hover {
+   background-color: var(--greenColor3);
+   transition: 400ms all;
+}
+.QiymetSpan1 span {
+    text-decoration: line-through var(--redColor);
+    position: absolute;
+    font-size: 17px;
+    color: var(--blackColor);
+    top: 267px;
+    left: 8px;
+}
+.QiymetSpan2 span {
+    position: absolute;
+    font-size: 17px;
+    color: var(--redColor3);
+    font-weight: bold;
+    top: 293px;
+    left: 8px;
+}
+.slick-arrow {
+    visibility: hidden;
+}
+
+.ManatIcon23 {
+    color: var(--blackColor);
+    font-size: 11px;
+    margin-left: -2px;
+}
+
+.icon34 {
+    position: absolute;
+    top: -12px;
+    left: 400px;
+    z-index: 1;
+    color: var(--blackColor4);
+    width: 25px;
+    height: 25px;
+}
+.icon34:hover {
+    color: var(--redColor1);
+    transition: 200ms all;
+}
+.portre {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.hef_end {
+    text-align: center;
+    width: 220px;
+    height: 50px;
+    padding-top: 7px;
+}
+.hef_end span {
+    color: var(--blackColor);
+    font-weight: bold;
+    font-size: 21px;
+}
+.time li {
+    list-style-type: none;
+}
+.time {
+    width: 210px;
+    height: 50px;
+    padding-left: 0;
+    margin-bottom: 0;
+}
+.li_1, .li_2, .li_3 {
+    width: 64px;
+    height: 50px;
+    display: inline-block;
+}
+.hour,.minute,.second {
+    font-size: 15px;
+}
+.hour1,.minute1,.second2 {
+    font-size: 14px;
+}
+
+.second2 {
+    padding-left: 4px;
+}
+.hour1, .hour {
+    margin-bottom: 0;
+}
+.hour {
+    margin-left: 27.685px;
+}
+.hour1 {
+    margin-left: 17.75px;
+}
+.minute, .minute1 {
+    margin-bottom: 0;
+}
+.minute {
+    margin-left: 23.375px;
+}
+.minute1 {
+    margin-left: 7.56px;
+}
+.second, .second2 {
+    margin-bottom: 0;
+}
+.second {
+    margin-left: 23.375px;
+}
+.second2 {
+    margin-left: 10px;
+}
+.button_16 svg {
+    color: var(--whiteColor4);
+    font-weight: bolder;
+    width: 30px;
+    height: 30px;
+
+}
+.span_1{
+    width: 220px;
+    font-size: 16px;
+    height: 22px;
+    font-weight: 700;
+}
+.span_asus{
+    margin-left: 20.61px;
+}
+
+.li_right1 {
+    position: relative;
+}
+.li_right2 {
+    position: relative;
+}
+.li_right1:after {
+    content: '';
+    height: 50%;
+    border: 0.1px solid var(--grayColor);
+    position: absolute;
+    top: 10px;
+    left: 62px;
+}
+.li_right2:after {
+    content: '';
+    height: 52%;
+    border: 0.1px solid var(--grayColor);
+    position: absolute;
+    top: 10px;
+    left: 67px;
+}
+
+.Mehsulbtn  button:hover {
+    background-color: var(--greenColor4);
+}
+.span_but_tek_bax {
+    width: 210px;
+    height: 35px;
+    margin-left: 15px;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 5px;
+    background-color: var(--whiteColor2);
+}
+.span_but_tek_bax  {
+    color: var(--blackColor5);
+    cursor: pointer;
+    font-weight: 600;
+}
+.span_but_tek_bax:hover {
+    background-color: var(--redColor1);
+    color: var(--whiteColor4);
+    transition: 400ms;
+    font-weight: 500;
+}
+
+

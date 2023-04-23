@@ -1,0 +1,67 @@
+:root{
+    --grayColor: #777;
+    --grayColor1: rgb(186, 186, 186);
+    --grayColor2: rgb(165, 165, 165);
+    --grayColor3: rgb(197, 197, 198);
+    --grayColor4: rgb(195, 195, 195);
+    --grayColor5: rgb(107, 102, 102);
+    --grayColor6: #c4b1b1;
+    --grayColor7: rgb(173, 172, 172);
+    --grayColor8: rgb(110, 110, 110);
+    --grayColor9: rgb(62, 62, 62);
+
+    --redColor: red;
+    --redColor1: rgb(255, 0, 60);
+    --redColor2: rgb(222, 74, 88);
+    --redColor3: rgb(246, 26, 77);
+    --redColor4: rgb(246, 5, 29);
+    --redColor5: rgb(246, 7, 31);
+    --redColor6: rgb(249, 60, 104);
+    --redColor7: rgb(244, 2, 59);
+    --redColor8: rgba(255, 0, 0, 0.926);
+    --redColor9: #ea2427;
+    --redColor10: rgb(199, 57, 57);
+
+    --blueColor1: rgb(166, 159, 212);
+    --blueColor2: #25344499;
+    --blueColor3: rgb(4, 144, 191);
+    --blueColor4: rgb(4, 144, 191);
+    --blueColor5: rgb(37,52,68);
+    --blueColor6: rgb(33, 37, 41);
+
+    --greenColor1: #099d0d;
+    --greenColor2: rgb(153,204,51);
+    --greenColor3: rgb(132, 172, 53);
+    --greenColor4: rgb(126,168,43);
+    --greenColor5: rgb(76, 198, 76);
+    --greenColor6: rgb(62, 177, 62);
+
+    --brownColor1: rgb(60, 40, 42);
+
+    --blackColor: black;
+    --blackColor1: rgba(18, 18, 18, 0.888);
+    --blackColor2: rgb(18,25,25);
+    --blackColor3: rgba(18, 18, 18, 0.986);
+    --blackColor4: rgba(55, 53, 53, 0.986);
+    --blackColor5: rgb(10, 10, 10);
+    --blackColor6: #282828;
+    --blackColor7: rgb(35,33,36);
+    --blackColor8: rgb(0, 0, 0,0.08);
+    --blackColor9: rgb(3, 3, 3);
+    --blackColor10: #2e2d2d;
+    --blackColor11: rgb(35, 33, 33);
+
+    --whiteColor: white;
+    --whiteColor1: rgb(210,210,210);
+    --whiteColor2: rgb(235,235,235);
+    --whiteColor3: rgb(202, 202, 202);
+    --whiteColor4: rgb(220, 220, 220);
+    --whiteColor5: rgb(212, 204, 204);
+    --whiteColor6: rgb(226, 226, 226);
+    --whiteColor7: #F7F6F2;
+    --whiteColor8: #efe8e8;
+    --whiteColor9: rgb(244, 244, 244);
+    --whiteColor10: rgb(225, 214, 214);
+    --whiteColor11: rgb(244, 241, 241);
+    --whiteColor12: rgb(190, 190, 190);
+}
